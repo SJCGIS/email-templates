@@ -1,0 +1,23 @@
+{
+  "name": "sjcgis-emails",
+  "version": "0.0.1",
+  "description": "Email templates from Mailchimp customized for San Juan County GIS.",
+  "main": "config.js",
+  "dependencies": {
+    "grunt": "~0.4.5",
+    "grunt-mustache-render": "~1.7.0"
+  },
+  "devDependencies": {
+    "grunt-mustache-render": "~1.7.0",
+    "grunt": "~0.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sjcgis/email-templates.git"
+  },
+  "author": "Nick Peihl",
+  "license": "Creative Commons Attribution-ShareAlike 3.0 Unported License.",
+  "bugs": {
+    "url": "https://github.com/sjcgis/email-templates/issues"
+  }
+}

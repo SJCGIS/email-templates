@@ -1,0 +1,6 @@
+.DS_Store
+web.config
+*~
+\#*\#
+build
+node_modules
