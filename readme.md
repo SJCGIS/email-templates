@@ -1,8 +1,6 @@
 Email Templates for San Juan County GIS
 ================
 
-[Brought to you by MailChimp](http://www.mailchimp.com/), these email blueprints are licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
-
 Email Templates is a collection of mustache email templates that can serve as a solid foundation and starting point for the design of emails for San Juan County GIS. They include mustache template elements that can be customized in the config.json file for any organization.
 
 Contents
